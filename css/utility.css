@@ -1,0 +1,14 @@
+.flexbox-center{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.btn{
+    padding:5px 10px ;
+    color: 240303;
+    background:var(--main-bg-color) ;
+    border: 2px solid white;
+    border-radius: 3px;
+    cursor: pointer;
+}
